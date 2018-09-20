@@ -11,11 +11,11 @@ import android.util.AttributeSet;
 import android.view.View;
 import android.view.ViewTreeObserver;
 import android.widget.TextView;
+import io.github.inflationx.viewpump.ReflectionUtils;
 
 import java.lang.ref.WeakReference;
 import java.lang.reflect.Method;
 
-import io.github.inflationx.viewpump.ReflectionUtils;
 
 class Calligraphy {
 
